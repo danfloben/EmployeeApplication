@@ -1,17 +1,19 @@
 # EmployeeApplication
 
-# Guide to Clone, Compile, and Run a .NET MVC Project Employee
+Guide to Clone, Compile, and Run a .NET MVC Project Employee
 
 ## Cloning the Project
 1. Clone the project repository from GitHub or another remote repository.
 
-  git clone https://github.com/danfloben/EmployeeApplication.git)https://github.com/danfloben/EmployeeApplication.git
+  git clone https://github.com/danfloben/EmployeeApplication.git
 
 ## Downloading Libraries
 2. Navigate to the project directory.
+
   cd EmployeeApplication
 
 4. Restore project dependencies using NuGet Package Manager.
+
   dotnet restore
 
 ## Compiling and Running
